@@ -11,4 +11,4 @@
 pytorch实战 ----线性回归 https://blog.csdn.net/l_zqxs_/article/details/81205561 
 
 史上最全神经网络结构图画图工具介绍，没有之一！ http://www.10tiao.com/html/502/201703/2653284913/1.html 
-https://cbovar.github.io/ConvNetDraw/ 
+https://cbovar.github.io/ConvNetDraw/ , https://github.com/cbovar/ConvNetDraw
