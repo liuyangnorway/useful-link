@@ -14,3 +14,5 @@ pytorch实战 ----线性回归 https://blog.csdn.net/l_zqxs_/article/details/812
 https://cbovar.github.io/ConvNetDraw/ , https://github.com/cbovar/ConvNetDraw
 https://github.com/gwding/draw_convnet
 
+[RNN教程1-RNN的基本介绍](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b1-rnn%e7%9a%84%e5%9f%ba%e6%9c%ac%e4%bb%8b%e7%bb%8d/)
+
