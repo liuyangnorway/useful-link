@@ -28,4 +28,11 @@
     - [RNN教程4-实现GRU/LSTM网络](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b4-%e5%ae%9e%e7%8e%b0grulstm%e7%bd%91%e7%bb%9c/)
     - [神经网络和深度学习的学习路线](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b4-%e5%ae%9e%e7%8e%b0grulstm%e7%bd%91%e7%bb%9c/)
 
-
+- 零基础入门深度学习
+    - [零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855) 
+    - [零基础入门深度学习(2) - 线性单元和梯度下降 ](https://www.zybuluo.com/hanbingtao/note/448086)
+    - [零基础入门深度学习(3) - 神经网络和反向传播算法 ]()
+    - [零基础入门深度学习(4) - 卷积神经网络 ]()
+    - [零基础入门深度学习(5) - 循环神经网络 ]()
+    - [零基础入门深度学习(6) - 长短时记忆网络(LSTM) ]()
+    - [零基础入门深度学习(7) - 递归神经网络]()
