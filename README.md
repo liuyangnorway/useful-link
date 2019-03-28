@@ -22,4 +22,10 @@
      - https://github.com/gwding/draw_convnet
 
 - [RNN教程1-RNN的基本介绍](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b1-rnn%e7%9a%84%e5%9f%ba%e6%9c%ac%e4%bb%8b%e7%bb%8d/)
+    - [RNN教程1-RNN的基本介绍](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b1-rnn%e7%9a%84%e5%9f%ba%e6%9c%ac%e4%bb%8b%e7%bb%8d/)
+    - [RNN教程2-用python、numpy和theano实现RNN](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b2-%e7%94%a8python-numpy-theano%e5%ae%9e%e7%8e%b0rnn/)
+    - [RNN教程3-BPTT算法以及消失的梯度](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b3-bptt%e7%ae%97%e6%b3%95%e4%bb%a5%e5%8f%8a%e6%b6%88%e5%a4%b1%e7%9a%84%e6%a2%af%e5%ba%a6/)
+    - [RNN教程4-实现GRU/LSTM网络](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b4-%e5%ae%9e%e7%8e%b0grulstm%e7%bd%91%e7%bb%9c/)
+    - [神经网络和深度学习的学习路线](https://www.lookfor404.com/rnn%e6%95%99%e7%a8%8b4-%e5%ae%9e%e7%8e%b0grulstm%e7%bd%91%e7%bb%9c/)
+
 
