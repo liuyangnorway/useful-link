@@ -6,9 +6,11 @@
 
 - [SQL必知必会](https://ljalphabeta.gitbooks.io/sql-must-know/content/ )
 
-
-# https://legacy.gitbook.com/@ljalphabeta  
-# 1. Python机器学习 2.neural-networks-and-deep-learning-notes-v0.8 3.机器学习 从入门到调包 4.深入浅出机器学习
+- https://legacy.gitbook.com/@ljalphabeta  
+    - 1. Python机器学习 
+    - 2.neural-networks-and-deep-learning-notes-v0.8 
+    - 3.机器学习 从入门到调包 
+    - 4.深入浅出机器学习
 
 - https://github.com/MachineLP 
 - [训练模型 training model 使用技巧](https://jiaxiangli.netlify.com/2018/04/21/training-model/)
