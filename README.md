@@ -38,6 +38,7 @@
     - [零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
     
 - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+
     [Code](https://github.com/stephencwelch/Neural-Networks-Demystified)
    - Neural Networks Demystified [Part 1: Data and Architecture]                     3:08
    - Neural Networks Demystified [Part 2: Forward Propagation]                       4:28
