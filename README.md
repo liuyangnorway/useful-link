@@ -36,3 +36,4 @@
     - [零基础入门深度学习(5) - 循环神经网络 ]()
     - [零基础入门深度学习(6) - 长短时记忆网络(LSTM) ]()
     - [零基础入门深度学习(7) - 递归神经网络]()
+- [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
