@@ -47,4 +47,6 @@
    - Neural Networks Demystified [Part 5: Numerical Gradient Checking]               4:14
    - Neural Networks Demystified [Part 6: Training]                                  4:41
    - Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]  5:53
+   
+ - [最全的中文版深度学习资源索引，包括论文，慕课，开源框架，数据集等等 ](https://github.com/bo-xiong/Awesome-Deep-Learning-for-Chinese)
  
