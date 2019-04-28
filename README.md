@@ -50,3 +50,6 @@
    
  - [最全的中文版深度学习资源索引，包括论文，慕课，开源框架，数据集等等 ](https://github.com/bo-xiong/Awesome-Deep-Learning-for-Chinese)
  
+ - [强烈推荐的TensorFlow、Pytorch和Keras的样例资源（深度学习初学者必须收藏）](https://zhuanlan.zhihu.com/p/51866340)
+ - [pytorch | 深度学习分割网络U-net的pytorch模型实现](https://blog.csdn.net/u014722627/article/details/60883185)
+ 
