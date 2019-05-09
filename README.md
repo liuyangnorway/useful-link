@@ -53,4 +53,4 @@
  - [强烈推荐的TensorFlow、Pytorch和Keras的样例资源（深度学习初学者必须收藏）](https://zhuanlan.zhihu.com/p/51866340)
  - [pytorch | 深度学习分割网络U-net的pytorch模型实现](https://blog.csdn.net/u014722627/article/details/60883185)
  - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
- 
+ - [从实例掌握 pytorch 进行图像分类 ](http://spytensor.com/index.php/archives/21/?ecxwjy=o1ftm3) 
