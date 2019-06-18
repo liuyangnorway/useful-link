@@ -54,3 +54,8 @@
  - [pytorch | 深度学习分割网络U-net的pytorch模型实现](https://blog.csdn.net/u014722627/article/details/60883185)
  - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
  - [从实例掌握 pytorch 进行图像分类 ](http://spytensor.com/index.php/archives/21/?ecxwjy=o1ftm3) 
+ 
+ - [深度学习新星：GAN的基本原理、应用和走向](https://www.jianshu.com/p/80bd4d4c2992)
+ - [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+ - [Understanding and Implementing CycleGAN in TensorFlow](https://hardikbansal.github.io/CycleGANBlog/)
+ - [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
