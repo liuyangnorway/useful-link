@@ -62,3 +62,4 @@
  - [GAN原理，优缺点、应用总结](https://blog.csdn.net/binbigdata/article/details/80650746)
  - [李宏毅 MLDS17--Generative Adversarial Network](https://www.jiqizhixin.com/articles/2017-10-1-1)
  - [把手教你用GAN实现半监督学习](https://blog.csdn.net/qq_25737169/article/details/78532719)
+ - [Generative Adversarial Notebooks](https://github.com/tjwei/GANotebooks)
