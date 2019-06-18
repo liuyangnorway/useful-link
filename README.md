@@ -59,3 +59,5 @@
  - [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
  - [Understanding and Implementing CycleGAN in TensorFlow](https://hardikbansal.github.io/CycleGANBlog/)
  - [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+ - [GAN原理，优缺点、应用总结](https://blog.csdn.net/binbigdata/article/details/80650746)
+ - [李宏毅 MLDS17--Generative Adversarial Network](https://www.jiqizhixin.com/articles/2017-10-1-1)
