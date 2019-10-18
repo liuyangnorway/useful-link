@@ -8,11 +8,16 @@
 
 
 - Python GUI examples 
+
    [Python GUI examples](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
+   
    [Graphical User Interfaces (GUI)](https://pythonspot.com/gui/)
+   
    [Introduction to GUI programming with tkinter](https://python-textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html)
+   
 
 - Fortran to Python 
+
   [Python Fortran90 Rosetta Stone](https://www.fortran90.org/src/rosetta.html)
   
 
