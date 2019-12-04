@@ -82,12 +82,12 @@
  - [把手教你用GAN实现半监督学习](https://blog.csdn.net/qq_25737169/article/details/78532719)
  - [Generative Adversarial Notebooks](https://github.com/tjwei/GANotebooks)
 - LSTM
- - [详解 LSTM](https://www.jianshu.com/p/dcec3f07d3b5)
- - [零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)
- -[机器学习&人工智能博文链接汇总](https://www.jianshu.com/p/28f02bb59fe5)
- -[LSTM 预测时间序列（Pytorch）](https://blog.csdn.net/baidu_36669549/article/details/85595807)
- -[Pytorch实现LSTM时间序列预测](https://cloud.tencent.com/developer/article/1072464)
- -[PyTorch 实现序列模型和基于LSTM的循环神经网络](PyTorch 实现序列模型和基于LSTM的循环神经网络)
- -[]()
+   - [详解 LSTM](https://www.jianshu.com/p/dcec3f07d3b5)    
+   - [零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)    
+   -[机器学习&人工智能博文链接汇总](https://www.jianshu.com/p/28f02bb59fe5)    
+   -[LSTM 预测时间序列（Pytorch）](https://blog.csdn.net/baidu_36669549/article/details/85595807)    
+   -[Pytorch实现LSTM时间序列预测](https://cloud.tencent.com/developer/article/1072464)    
+   -[PyTorch 实现序列模型和基于LSTM的循环神经网络](PyTorch 实现序列模型和基于LSTM的循环神经网络)    
+   -[]()
  
  
