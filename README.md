@@ -12,6 +12,7 @@
    
    [Color Palettes Color Schemes](https://www.color-hex.com/color-palettes/)
    
+   
    []()
    
    []()
@@ -19,6 +20,9 @@
    []()
    [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 - Python GUI examples 
+
+   [Python Tkinter 简易教程](https://blog.csdn.net/liuxu0703/category_9268244.html)
+    ---English--- [PythonTkinter](https://www.python-course.eu/python_tkinter.php) 
 
    [Python GUI examples](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
    
