@@ -6,6 +6,8 @@
 
 - [SQL必知必会](https://ljalphabeta.gitbooks.io/sql-must-know/content/ )
 
+- Python
+  [Pandas](https://tpleina.com/categories/数据分析/Pandas/)
 
 - Python GUI examples 
 
@@ -14,7 +16,7 @@
    [Graphical User Interfaces (GUI)](https://pythonspot.com/gui/)
    
    [Introduction to GUI programming with tkinter](https://python-textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html)
-   
+   [Tkinter教程](https://tpleina.com/categories/Python/Tkinter教程/)
 
 - Fortran to Python 
 
