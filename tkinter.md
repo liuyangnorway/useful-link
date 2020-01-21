@@ -12,7 +12,7 @@
 [python – 如何在Tkinter窗口中刷新matplotlib图](http://www.voidcn.com/article/p-updhmayc-bwd.html)
 
 
-[python-tkinter学习实例](https://www.codercto.com/a/11923.html)  [github](https://github.com/ishikota/PyPokerGUI/tree/master/pypokergui)
+[python-tkinter学习实例](https://www.codercto.com/a/11923.html)   --- [github](https://github.com/ishikota/PyPokerGUI/tree/master/pypokergui)
 
 []()
 
