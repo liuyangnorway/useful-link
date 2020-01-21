@@ -7,8 +7,17 @@
 - [SQL必知必会](https://ljalphabeta.gitbooks.io/sql-must-know/content/ )
 
 - Python
-  [Pandas](https://tpleina.com/categories/数据分析/Pandas/)
 
+   [Pandas](https://tpleina.com/categories/数据分析/Pandas/)
+   
+   [Color Palettes Color Schemes](https://www.color-hex.com/color-palettes/)
+   
+   []()
+   
+   []()
+   []()
+   []()
+   [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 - Python GUI examples 
 
    [Python GUI examples](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
@@ -18,6 +27,11 @@
    [Introduction to GUI programming with tkinter](https://python-textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html)
    
    [Tkinter教程](https://tpleina.com/categories/Python/Tkinter教程/)
+
+   [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
+   []()
+   []()
+   []()   
 
 - Fortran to Python 
 
