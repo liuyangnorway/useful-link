@@ -20,6 +20,6 @@
 
 [https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course]()
 
-[Tkinter Course - Create Graphic User Interfaces in Python Tutorial ](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=13917s)  -----[       [Code](https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course)]
+[Tkinter Course - Create Graphic User Interfaces in Python Tutorial ](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=13917s)  -----[       [Code](https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course) ]
 
 []()
