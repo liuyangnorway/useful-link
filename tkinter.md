@@ -22,4 +22,11 @@
 
 [Tkinter Course - Create Graphic User Interfaces in Python Tutorial ](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=13917s)  -----[       [Code](https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course) ]
 
+[python自动化开发学习笔记——tkinter交互篇](https://zhuanlan.zhihu.com/p/75873988)
+
+[]()
+
+
+[]()
+
 []()
