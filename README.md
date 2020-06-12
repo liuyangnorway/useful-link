@@ -13,7 +13,7 @@
    [Color Palettes Color Schemes](https://www.color-hex.com/color-palettes/)
    
    
-   []()
+   [Matplotlib中修改曲线图例(legend)](https://zhuanlan.zhihu.com/p/32441279)
    
    []()
    []()
