@@ -4,6 +4,13 @@
 
 - [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles) 
 
+- Data Science 
+   [Data Science Learning Roadmap for 2021](https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f)
+   [Data Science Learning Roadmap for 2021](https://www.freecodecamp.org/news/data-science-learning-roadmap/)
+   [Roadmap to becoming a data engineer in 2021](https://github.com/datastacktv/data-engineer-roadmap)
+   [The Data Engineer Roadmap](https://devdojo.com/bobbyiliev/the-data-engineer-roadmap)
+   [Data Engineering Roadmap For 2021](https://medium.com/coriers/data-engineering-roadmap-for-2021-eac7898f0641)
+   []()  
 - [SQL必知必会](https://ljalphabeta.gitbooks.io/sql-must-know/content/ )
 
 - Python
@@ -18,6 +25,9 @@
    []()
    []()
    []()
+   
+   
+   
    [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 - Python GUI examples 
 
